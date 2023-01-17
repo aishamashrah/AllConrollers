@@ -1,0 +1,11 @@
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/AllConrollers
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/appsettings.Development.json
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/appsettings.json
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/AllConrollers.dll
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/AllConrollers.deps.json
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/AllConrollers.runtimeconfig.json
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/AllConrollers.pdb
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/Microsoft.OpenApi.dll
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aishamashrah/Desktop/Level 2/week 2/AllConrollers/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
